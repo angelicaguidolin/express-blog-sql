@@ -1,3 +1,6 @@
+const connection= require ("../data/db")
+
+//DB NON VERO
 const postData= require("../data/bacheca")
 //INDEX
 const index=(req, res) => {
