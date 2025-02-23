@@ -1,0 +1,24 @@
+{
+  "name": "express-blog-sql",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "watch": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelicaguidolin/express-blog-sql.git"
+  },
+  "author": "angelica_guidolin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelicaguidolin/express-blog-sql/issues"
+  },
+  "homepage": "https://github.com/angelicaguidolin/express-blog-sql#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
